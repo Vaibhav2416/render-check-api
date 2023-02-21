@@ -1,0 +1,23 @@
+{
+  "name": "render-check-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhav2416/render-check-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhav2416/render-check-api/issues"
+  },
+  "homepage": "https://github.com/Vaibhav2416/render-check-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
